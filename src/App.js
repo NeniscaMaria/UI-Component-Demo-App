@@ -1,8 +1,8 @@
-import "./App.css";
+import "./styles/App.css";
 import React from "react";
 import EditIcon from "./assets/editIcon.svg";
 import {Button} from "smart-button-test";
-import Toggle from "./Toggle";
+import Toggle from "./toggle/Toggle";
 import {sizeOptions} from "./constants";
 import {Select} from "grommet";
 
